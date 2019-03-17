@@ -1,2 +1,2 @@
 # harish_new
-new repostiory
+new repostiory for git usage
